@@ -1,0 +1,5 @@
+{
+  "name": "Advanced Physiotherapy Assessment System",
+  "description": "A comprehensive physiotherapy assessment system that allows therapists to input subjective, objective, assessment, and plan data, and automatically generates a detailed narrative report. It includes features for managing progress notes, selecting exercises and modalities, and utilizing treatment protocols.",
+  "requestFramePermissions": []
+}
